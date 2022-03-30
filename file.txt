@@ -1,8 +1,19 @@
-Ajay 25 P
-Pooja 25 P
-Amod 20 F
-Julia 15 F
-Janak 18 F
-Alicia 12 F
-Bikesh 22 P
-Lochana 24 P
+#Hello Ajay!!!
+
+#This is Cool..
+
+#Linux is the way..
+
+#Always use the cat command to write yourself notes
+
+#Self Test
+
+#Task
+
+#Vi editor 
+
+#Make a cool program 
+
+#Always Remember 
+
+#Patience is the Key
